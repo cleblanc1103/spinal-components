@@ -16,7 +16,7 @@
     "chart.js": "^4.2.0",
     "file-saver": "^2.0.5",
     "fs": "^0.0.1-security",
-    "spinal-env-viewer-plugin-excel-manager-service": "git+https://github.com/spinalcom/spinal-env-viewer-plugin-excel-manager-service.git",
+    "spinal-env-viewer-plugin-excel-manager-service": "git+https://github.com/cleblanc1103/spinal-env-viewer-plugin-excel-manager-service.git#quickFixFs",
     "html2canvas": "^1.4.1",
     "velocity-animate": "^1.5.2",
     "vue": "^2.7.14",
